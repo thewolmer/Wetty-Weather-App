@@ -1,7 +1,7 @@
 
 # Wetty Weather APP
 
-Know the weather at your long distance love's home. I was bored and wanted to learn making API requests using Axios, this wetty app is the result of that.
+Know the mood of weather at your long distance love's home. I was bored and wanted to learn making API requests using Axios, this wetty app is the result of that.
 
 
 ## License
@@ -16,7 +16,7 @@ Know the weather at your long distance love's home. I was bored and wanted to le
 
 **Frameworks:** Vue, Vite, TailwindCSS
 
-**Server:** Node, Netflify
+**Server:** Node, Vercel
 
 
 
@@ -67,7 +67,7 @@ npm run dev
 ```bash
 npm run build
 ```
-```
+
 
 
 ## Customize configuration
